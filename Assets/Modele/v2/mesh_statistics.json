@@ -1,0 +1,25 @@
+{
+  "source_faces": 743361,
+  "meshes": {
+    "Ship_LOD0": {
+      "vertices": 30634,
+      "triangles": 55932
+    },
+    "Steering_wheel": {
+      "vertices": 1112,
+      "triangles": 2188
+    },
+    "Rudder": {
+      "vertices": 8,
+      "triangles": 12
+    },
+    "Ship_LOD1": {
+      "vertices": 18036,
+      "triangles": 30760
+    },
+    "Ship_LOD2": {
+      "vertices": 10481,
+      "triangles": 15658
+    }
+  }
+}

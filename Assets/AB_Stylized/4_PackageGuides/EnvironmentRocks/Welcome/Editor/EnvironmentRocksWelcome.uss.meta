@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 16ad90ef8657ca84d9353d2331bcce7f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
+  disableValidation: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 400450
+  packageName: Stylized Environment Rocks - AAA quality
+  packageVersion: 1.0
+  assetPath: Assets/AB_Stylized/4_PackageGuides/EnvironmentRocks/Welcome/Editor/EnvironmentRocksWelcome.uss
+  uploadId: 1015206

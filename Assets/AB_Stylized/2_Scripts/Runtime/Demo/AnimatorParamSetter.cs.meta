@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9032910bc7b5ee949bc198c2d1538dc2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 400450
+  packageName: Stylized Environment Rocks - AAA quality
+  packageVersion: 1.0
+  assetPath: Assets/AB_Stylized/2_Scripts/Runtime/Demo/AnimatorParamSetter.cs
+  uploadId: 1015206

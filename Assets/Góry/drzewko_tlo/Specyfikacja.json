@@ -1,0 +1,12 @@
+{
+  "source": "Original Tree prefab mesh and its Retro Tree Bark / Retro Tree Leaves materials",
+  "dimensions_m": [
+    406.2224884033203,
+    407.8219299316406,
+    461.69762897491455
+  ],
+  "objects": 332,
+  "triangles": 115068,
+  "secondary_trees": 38,
+  "leaf_clusters": 292
+}

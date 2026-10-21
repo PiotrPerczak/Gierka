@@ -1,0 +1,27 @@
+{
+  "STUMP_ARENA_LOD0": {
+    "identity_transforms": true,
+    "uv_present": true,
+    "degenerate_faces": 0
+  },
+  "STUMP_ARENA_LOD1": {
+    "identity_transforms": true,
+    "uv_present": true,
+    "degenerate_faces": 0
+  },
+  "STUMP_ARENA_LOD2": {
+    "identity_transforms": true,
+    "uv_present": true,
+    "degenerate_faces": 0
+  },
+  "COLLISION_STATIC": {
+    "identity_transforms": true,
+    "uv_present": true,
+    "degenerate_faces": 0
+  },
+  "FBX_roundtrip_dimensions_m": [
+    331.5441436767578,
+    346.2004089355469,
+    321.4000520668178
+  ]
+}

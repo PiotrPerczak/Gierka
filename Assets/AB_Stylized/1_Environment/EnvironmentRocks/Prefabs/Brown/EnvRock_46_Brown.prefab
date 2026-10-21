@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7048281290193092440
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1132512091720623148, guid: e83578d1f41af6646b0a490dd3595fd1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132512091720623148, guid: e83578d1f41af6646b0a490dd3595fd1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132512091720623148, guid: e83578d1f41af6646b0a490dd3595fd1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132512091720623148, guid: e83578d1f41af6646b0a490dd3595fd1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132512091720623148, guid: e83578d1f41af6646b0a490dd3595fd1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132512091720623148, guid: e83578d1f41af6646b0a490dd3595fd1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132512091720623148, guid: e83578d1f41af6646b0a490dd3595fd1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132512091720623148, guid: e83578d1f41af6646b0a490dd3595fd1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132512091720623148, guid: e83578d1f41af6646b0a490dd3595fd1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132512091720623148, guid: e83578d1f41af6646b0a490dd3595fd1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3387939727789233176, guid: e83578d1f41af6646b0a490dd3595fd1, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 28faa9f851d432e4a9ee1a251750b83d, type: 2}
+    - target: {fileID: 3921376597183817067, guid: e83578d1f41af6646b0a490dd3595fd1, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 28faa9f851d432e4a9ee1a251750b83d, type: 2}
+    - target: {fileID: 4352092798293768254, guid: e83578d1f41af6646b0a490dd3595fd1, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 28faa9f851d432e4a9ee1a251750b83d, type: 2}
+    - target: {fileID: 7713649361740134910, guid: e83578d1f41af6646b0a490dd3595fd1, type: 3}
+      propertyPath: m_Name
+      value: EnvRock_46_Brown
+      objectReference: {fileID: 0}
+    - target: {fileID: 8683840766826335512, guid: e83578d1f41af6646b0a490dd3595fd1, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 28faa9f851d432e4a9ee1a251750b83d, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e83578d1f41af6646b0a490dd3595fd1, type: 3}

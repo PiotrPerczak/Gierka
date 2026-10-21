@@ -1,0 +1,7 @@
+{
+  "name": "AnkleBreaker.EnvironmentRocks.Welcome.Editor",
+  "references": [],
+  "includePlatforms": [
+    "Editor"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "support_checks": {
+    "main": {
+      "covered": 155,
+      "samples": 155
+    },
+    "bow": {
+      "covered": 155,
+      "samples": 155
+    },
+    "stern": {
+      "covered": 155,
+      "samples": 155
+    },
+    "bow_support": {
+      "-10": true,
+      "-9": true,
+      "-8.1": true
+    }
+  },
+  "meshes": {
+    "Ship_LOD0": {
+      "triangles": 55932,
+      "materials": 1,
+      "uv_layers": 1,
+      "nonfinite_vertices": 0,
+      "degenerate_triangles": 0
+    },
+    "Ship_LOD1": {
+      "triangles": 30760,
+      "materials": 1,
+      "uv_layers": 1,
+      "nonfinite_vertices": 0,
+      "degenerate_triangles": 0
+    },
+    "Ship_LOD2": {
+      "triangles": 15658,
+      "materials": 1,
+      "uv_layers": 1,
+      "nonfinite_vertices": 0,
+      "degenerate_triangles": 0
+    },
+    "Steering_wheel": {
+      "triangles": 2188,
+      "materials": 1,
+      "uv_layers": 1,
+      "nonfinite_vertices": 0,
+      "degenerate_triangles": 0
+    },
+    "Rudder": {
+      "triangles": 12,
+      "materials": 1,
+      "uv_layers": 1,
+      "nonfinite_vertices": 0,
+      "degenerate_triangles": 0
+    }
+  },
+  "fbx_roundtrip": {
+    "Rudder": {
+      "triangles": 12,
+      "materials": 1
+    },
+    "Ship_LOD0": {
+      "triangles": 55932,
+      "materials": 1
+    },
+    "Steering_wheel": {
+      "triangles": 2188,
+      "materials": 1
+    }
+  }
+}

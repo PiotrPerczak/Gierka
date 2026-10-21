@@ -1,0 +1,92 @@
+{
+  "revision": 1,
+  "original_fingers_preserved": true,
+  "height_m": 2,
+  "bones": 20,
+  "texture": "Skeleton_AgedBone_BaseColor.png",
+  "texture_size": 1024,
+  "fragments": [
+    {
+      "mesh": "Pelvis",
+      "bone": "Hips"
+    },
+    {
+      "mesh": "Spine",
+      "bone": "Spine"
+    },
+    {
+      "mesh": "Chest",
+      "bone": "Chest"
+    },
+    {
+      "mesh": "Neck",
+      "bone": "Neck"
+    },
+    {
+      "mesh": "Head",
+      "bone": "Head"
+    },
+    {
+      "mesh": "UpperArm_R",
+      "bone": "UpperArm_R"
+    },
+    {
+      "mesh": "LowerArm_R",
+      "bone": "LowerArm_R"
+    },
+    {
+      "mesh": "Hand_R",
+      "bone": "Hand_R"
+    },
+    {
+      "mesh": "UpperArm_L",
+      "bone": "UpperArm_L"
+    },
+    {
+      "mesh": "LowerArm_L",
+      "bone": "LowerArm_L"
+    },
+    {
+      "mesh": "Hand_L",
+      "bone": "Hand_L"
+    },
+    {
+      "mesh": "UpperLeg_R",
+      "bone": "UpperLeg_R"
+    },
+    {
+      "mesh": "LowerLeg_R",
+      "bone": "LowerLeg_R"
+    },
+    {
+      "mesh": "Foot_R",
+      "bone": "Foot_R"
+    },
+    {
+      "mesh": "UpperLeg_L",
+      "bone": "UpperLeg_L"
+    },
+    {
+      "mesh": "LowerLeg_L",
+      "bone": "LowerLeg_L"
+    },
+    {
+      "mesh": "Foot_L",
+      "bone": "Foot_L"
+    }
+  ],
+  "lods": [
+    {
+      "name": "Skeleton_Horde_LOD0",
+      "triangles": 12261
+    },
+    {
+      "name": "Skeleton_Horde_LOD1",
+      "triangles": 5885
+    },
+    {
+      "name": "Skeleton_Horde_LOD2",
+      "triangles": 2451
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "STUMP_ARENA_LOD0": {
+    "objects": 34,
+    "triangles": 18610
+  },
+  "STUMP_ARENA_LOD1": {
+    "objects": 34,
+    "triangles": 9475
+  },
+  "STUMP_ARENA_LOD2": {
+    "objects": 34,
+    "triangles": 4560
+  },
+  "COLLISION_STATIC": {
+    "objects": 2,
+    "triangles": 250
+  }
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "file": "Skeleton_Horde_LOD0.fbx",
+    "meshes": 1,
+    "armatures": 1,
+    "height_m": 2.0011,
+    "triangles": 12261,
+    "skinned_meshes": 1
+  },
+  {
+    "file": "Skeleton_Horde_LOD1.fbx",
+    "meshes": 1,
+    "armatures": 1,
+    "height_m": 1.9994,
+    "triangles": 5880,
+    "skinned_meshes": 1
+  },
+  {
+    "file": "Skeleton_Horde_LOD2.fbx",
+    "meshes": 1,
+    "armatures": 1,
+    "height_m": 1.9943,
+    "triangles": 2444,
+    "skinned_meshes": 1
+  },
+  {
+    "file": "Skeleton_Horde_BreakApart.fbx",
+    "meshes": 17,
+    "armatures": 0,
+    "height_m": 2.0011,
+    "triangles": 12261,
+    "skinned_meshes": 0
+  }
+]

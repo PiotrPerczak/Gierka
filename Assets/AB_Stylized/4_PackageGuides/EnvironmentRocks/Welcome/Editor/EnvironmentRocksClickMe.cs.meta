@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 85ed02e7cd5d75b4e3af5882bdb7c192
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 3df5ff3853960d44985b8ca4ce25166b, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 400450
+  packageName: Stylized Environment Rocks - AAA quality
+  packageVersion: 1.0
+  assetPath: Assets/AB_Stylized/4_PackageGuides/EnvironmentRocks/Welcome/Editor/EnvironmentRocksClickMe.cs
+  uploadId: 1015206
